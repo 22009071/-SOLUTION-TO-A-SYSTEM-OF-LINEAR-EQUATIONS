@@ -22,8 +22,8 @@ End the program
 ## Program:
 ```python
 #Program to find the solution for the given linear equations.
-#Developed by:Preethi.A.A
-#RegisterNumber:22008332
+#Developed by:KABILAN T
+#RegisterNumber:22009071
 import numpy as np
 A = np.array([[1,3],[2,5]])
 B = np.array([5,-3])
